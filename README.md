@@ -35,6 +35,10 @@ The system acts like a **multi-step AI agent workflow**:
 - Prompt-engineered workflows
 - Modular output generation (strategy blocks)
 
+- ,</> Markdown
+- ![Dashboard](dashboard.png)
+- ![Workflow](workflow.png)
+
 Future Direction:
 → Multi-agent system (Researcher, Analyst, Strategist)
 → MCP-based tool integrations
