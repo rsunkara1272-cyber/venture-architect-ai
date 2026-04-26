@@ -1,5 +1,4 @@
-# venture-architect-ai
-AI-powered Product Strategy Co-Pilot for PMs. Generate market analysis, MVP roadmap, experiments, and growth strategy using LLM-driven workflows.
+
 # VentureArchitect AI 🚀
 
 An AI-powered Product Strategy Co-Pilot designed to help Product Managers, Founders, and Builders go from idea → execution.
